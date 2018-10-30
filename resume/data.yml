@@ -38,9 +38,9 @@ skills:
   level: 85
 - name: Kubernetes
   level: 70
-- name: "React Native: willing to learn"
-  level: 0
 - name: "Golang: willing to learn"
+  level: 0
+- name: "Mobile: willing to learn"
   level: 0
 knowledge: Also proficient in HTML, CSS, GIT, Bash and Unix-like operating systems.
 
